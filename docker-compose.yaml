@@ -52,5 +52,3 @@ services:
       - ME_CONFIG_MONGODB_ADMINPASSWORD=root
     depends_on:
       - db
-
-#npm run test ----> mongo
